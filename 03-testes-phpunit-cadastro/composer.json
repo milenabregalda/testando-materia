@@ -1,0 +1,19 @@
+{
+    "name": "182310063/03-testes-phpunit-cadastro",
+    "autoload": {
+        "psr-4": {
+            "MeuApp\\ManipulacaoDeDados\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MeuApp\\ManipulacaoDeDados\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Milena Bregalda"
+        }
+    ],
+    "require": {}
+}
